@@ -1,0 +1,21 @@
+{
+  "name": "owninstascraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sagar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bulma": "^0.7.5",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "nodemon": "^1.19.1",
+    "prompts": "^2.1.0",
+    "request": "^2.88.0"
+  }
+}
